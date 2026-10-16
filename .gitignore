@@ -1,0 +1,11 @@
+# Secrets: database credentials live here
+.env
+
+# Raw export contains real customer names, never commit
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

@@ -1,0 +1,16 @@
+customer_code,brand,location,order_date,product_name,category,print_only,qty,fulfilment_status,payment_status,invoice_no,total_eur,is_synthetic
+CUST-01,BRAND-01,,2026-02-16,Pizza Boxes,Pizza Box,False,4,Delivered,Paid,,175.00,False
+CUST-02,BRAND-02,,2026-04-23,Pizza Boxes,Pizza Box,False,2,Delivered,Unpaid,,60.00,False
+CUST-01,BRAND-01,,2026-04-24,Pizza Boxes (Print Only),Pizza Box,True,12,Delivered,Unpaid,,245.20,False
+CUST-02,BRAND-02,,2026-04-28,Pizza Boxes,Pizza Box,False,5,Delivered,Unpaid,,150.00,False
+CUST-03,BRAND-03,,2026-05-10,Pizza Boxes (Print Only),Pizza Box,True,8,Delivered,Unpaid,INV-010106,129.20,False
+CUST-04,BRAND-04,Tallaght,2026-05-17,Bags,Bag,False,5,Delivered,Paid,,225.00,False
+CUST-02,BRAND-02,,2026-05-17,Pizza Boxes,Pizza Box,False,4,Delivered,Unpaid,,115.00,False
+CUST-03,BRAND-03,,2026-05-21,Pizza Boxes,Pizza Box,False,3,Delivered,Paid,,64.59,False
+CUST-05,BRAND-04,Sandyford,2026-05-22,Bags,Bag,False,5,Delivered,Paid,,225.00,False
+CUST-06,BRAND-05,,2026-05-26,Bags,Bag,False,6,Delivered,Paid,,260.00,False
+CUST-04,BRAND-04,Tallaght,2026-05-27,Bags,Bag,False,5,Delivered,Paid,,225.00,False
+CUST-07,BRAND-06,,2026-05-27,Bags,Bag,False,2,Delivered,Unpaid,,100.00,False
+CUST-08,BRAND-07,,2026-05-29,Bags & Box,Bag & Box,False,2,Delivered,Paid,,77.00,False
+CUST-02,BRAND-02,,2026-05-29,Bags,Bag,False,9,Delivered,Unpaid,,255.00,False
+CUST-06,BRAND-05,,2026-05-30,Bags,Bag,False,5,Delivered,Paid,,260.00,False
