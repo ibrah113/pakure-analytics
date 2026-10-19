@@ -55,7 +55,7 @@ The first row of the export is a title, the headers are on row 2, and there are 
 | Problem | Fix |
 |---|---|
 | `Status` mixes delivery and payment ("Delivered", "Paid") | Split into `fulfilment_status` and `payment_status`, using the `Paid` column for payment |
-| Client names include branch, e.g. `Tuckinn(Tallaght)` | Split into `brand` + `location`; each branch is its own customer |
+| Client names include branch, e.g. `BrandX(Branch1)` | Split into `brand` + `location`; each branch is its own customer |
 | Product names inconsistent (`Bags` / `bags`, `Bags&Box`) | Standardise names and map to a products table |
 | Rows not in date order | Sort by date; don't rely on the `#` column for order sequence |
 | Only one order has an invoice number | Keep `invoice_no` as an optional column |
@@ -84,7 +84,7 @@ Tableau Public (the free, publicly shareable version) cannot connect to a Postgr
 
 ## Milestones
 - [x] **Stage 1: Database.** Schema created, real orders cleaned, anonymised and loaded, totals checked against the spreadsheet.
-- [ ] **Stage 2: Dashboard.** SQL views built, Tableau Public dashboard published, README updated with screenshots and an "insights and decisions" section.
+- [x] **Stage 2: Dashboard.** SQL views built, Tableau Public dashboard published, README updated with screenshots and an "insights and decisions" section.
 - [ ] **Stage 3: Sales funnel (optional).** Prospects and quotes data added and a conversion funnel built (links the project to sales development).
 
 ## Validation checks (stage 1)

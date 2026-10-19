@@ -7,7 +7,7 @@ DROP TABLE IF EXISTS orders CASCADE;
 DROP TABLE IF EXISTS products CASCADE;
 DROP TABLE IF EXISTS customers CASCADE;
 
--- One row per customer branch ("Tuckinn (Tallaght)" and "Tuckinn (Sandyford)" are separate customers).
+-- One row per customer branch (two branches of the same brand are separate customers).
 CREATE TABLE customers (
     customer_id       SERIAL PRIMARY KEY,
     customer_code     TEXT NOT NULL UNIQUE,   -- anonymised, e.g. CUST-01

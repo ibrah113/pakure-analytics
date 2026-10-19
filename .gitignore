@@ -9,3 +9,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Tableau temp/backup file and extracts (the .twbx already packages the data)
+~*.twbr
+dashboard/data/*.hyper

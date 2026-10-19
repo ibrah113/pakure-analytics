@@ -26,7 +26,7 @@ PRODUCTS = {
 
 
 def split_client(client: str) -> tuple[str, str | None]:
-    """'Tuckinn(Tallaght)' -> ('Tuckinn', 'Tallaght'); 'Kake' -> ('Kake', None)."""
+    """'BrandX(Branch1)' -> ('BrandX', 'Branch1'); 'BrandY' -> ('BrandY', None)."""
     m = re.fullmatch(r"\s*(.*?)\s*\(\s*(.*?)\s*\)\s*", client)
     return (m.group(1), m.group(2)) if m else (client.strip(), None)
 
