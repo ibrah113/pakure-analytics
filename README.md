@@ -18,10 +18,10 @@ Pakure Solutions is a custom-branded packaging business (pizza boxes, paper bags
 ## Key findings
 Based on 15 orders from 8 customers, Feb–May 2026 (a small sample, so treat these as signals rather than statistics):
 
-- **Cash is the biggest issue.** 41% of revenue (€1,054 of €2,566) is unpaid, and one customer owes €580 across four orders. The oldest unpaid orders date from April 2026. *Decision: ask for payment on delivery.*
-- **Bags drive the business.** Bags are 60% of revenue (€1,550). *Decision: lead with bags when prospecting.*
+- **Cash is the biggest issue.** 41% of revenue (€1,054 of €2,566) is unpaid, and one customer owes €580 across four orders. The oldest unpaid orders date from April 2026. *Recommendation: ask for payment on delivery.*
+- **Bags drive the business.** Bags are 60% of revenue (€1,550). *Recommendation: lead with bags when prospecting.*
 - **Customers come back.** 5 of 8 customers (62.5%) have re-ordered, which suggests the product is good enough to earn repeat business.
-- **Growth is recent.** Revenue went from €175 in February to €1,936 in May, with no orders in March.
+- **Growth is recent.** Revenue went from €175 in February to €1,936 in May, with no orders in March. The tracker currently ends in May 2026.
 
 ## Tech stack
 | Part | Tool |
@@ -80,4 +80,4 @@ PLAN.md            project plan and decisions
 ```
 
 ## Author
-Ibrahim Abushaban, founder of Pakure Solutions.
+Ibrahim Abushaban, founder of Pakure Solutions. [LinkedIn](https://www.linkedin.com/in/ibrahim-abushaban)
