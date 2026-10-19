@@ -1,10 +1,11 @@
 -- Stage 1 schema for Pakure Analytics.
--- Safe to re-run: drops and recreates the tables (children first, because of foreign keys).
+-- Safe to re-run: drops and recreates the tables. CASCADE also drops any views built on them
+-- (02_views.sql recreates those), and children are dropped first because of foreign keys.
 
-DROP TABLE IF EXISTS order_items;
-DROP TABLE IF EXISTS orders;
-DROP TABLE IF EXISTS products;
-DROP TABLE IF EXISTS customers;
+DROP TABLE IF EXISTS order_items CASCADE;
+DROP TABLE IF EXISTS orders CASCADE;
+DROP TABLE IF EXISTS products CASCADE;
+DROP TABLE IF EXISTS customers CASCADE;
 
 -- One row per customer branch ("Tuckinn (Tallaght)" and "Tuckinn (Sandyford)" are separate customers).
 CREATE TABLE customers (

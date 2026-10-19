@@ -79,6 +79,9 @@ Planned later (stage 3, sales funnel):
 5. Revenue and quantity by product
 6. Stage 3: prospect → quote → customer conversion funnel
 
+### Why the dashboard reads CSV exports, not the live database
+Tableau Public (the free, publicly shareable version) cannot connect to a PostgreSQL server. It only reads files, and a published workbook can't reach a database running on my laptop anyway. So `scripts/export_views.py` writes each view to `dashboard/data/*.csv` and Tableau reads those. PostgreSQL stays the single source of truth, so all metric logic lives in the SQL views and Tableau only draws charts. The trade-off is that the dashboard is a snapshot: after any data change I re-run `load_db.py` and `export_views.py`, then refresh the Tableau extract. The exports contain only anonymised data, so they are safe to commit.
+
 ## Milestones
 - [x] **Stage 1: Database.** Schema created, real orders cleaned, anonymised and loaded, totals checked against the spreadsheet.
 - [ ] **Stage 2: Dashboard.** SQL views built, Tableau Public dashboard published, README updated with screenshots and an "insights and decisions" section.

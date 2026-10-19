@@ -14,6 +14,7 @@ from psycopg import sql
 ROOT = Path(__file__).resolve().parent.parent
 CLEAN = ROOT / "data" / "clean" / "orders_clean.csv"
 SCHEMA = ROOT / "sql" / "01_schema.sql"
+VIEWS = ROOT / "sql" / "02_views.sql"
 
 load_dotenv(ROOT / ".env")
 CONN = dict(
@@ -112,6 +113,10 @@ def main() -> None:
     # failed load never leaves half-loaded tables.
     with psycopg.connect(dbname=DB_NAME, **CONN) as conn:
         load(conn)
+        # Views are built after the data so they sit on top of final tables;
+        # they're in the same transaction, so a broken view rolls back the load too.
+        conn.execute(VIEWS.read_text(encoding="utf-8"))
+        print("Created metric views from 02_views.sql")
         ok = validate(conn)
     print("\nAll checks passed" if ok else "\nCHECKS FAILED")
     raise SystemExit(0 if ok else 1)
