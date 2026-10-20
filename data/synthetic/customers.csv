@@ -1,0 +1,14 @@
+customer_code,brand,location,business_type,first_order_date,is_synthetic
+SIM-CUST-01,SIM-BRAND-01,Sandyford,restaurant,2026-07-04,True
+SIM-CUST-02,SIM-BRAND-02,Sandyford,takeaway,2026-07-03,True
+SIM-CUST-03,SIM-BRAND-03,Dublin 1,takeaway,2026-08-04,True
+SIM-CUST-04,SIM-BRAND-04,Howth,restaurant,2026-08-11,True
+SIM-CUST-05,SIM-BRAND-05,Dublin 1,restaurant,2026-08-12,True
+SIM-CUST-06,SIM-BRAND-06,Tallaght,takeaway,2026-08-21,True
+SIM-CUST-07,SIM-BRAND-07,Lucan,restaurant,2026-08-25,True
+SIM-CUST-08,SIM-BRAND-08,Dublin 1,cafe,2026-09-04,True
+SIM-CUST-09,SIM-BRAND-09,Dublin 1,restaurant,2026-09-10,True
+SIM-CUST-10,SIM-BRAND-10,Blanchardstown,restaurant,2026-09-18,True
+SIM-CUST-11,SIM-BRAND-11,Swords,cafe,2026-09-22,True
+SIM-CUST-12,SIM-BRAND-12,Lucan,takeaway,2026-09-23,True
+SIM-CUST-13,SIM-BRAND-13,Lucan,cafe,2026-09-28,True

@@ -1,0 +1,94 @@
+prospect_code,business_type,area,first_contact_date,channel,outcome,customer_code,is_synthetic
+SIM-PROS-001,cafe,Blanchardstown,2026-06-01,walk-in,no_interest,,True
+SIM-PROS-002,restaurant,Sandyford,2026-06-03,walk-in,no_interest,,True
+SIM-PROS-003,cafe,Rathmines,2026-06-07,email,quoted,,True
+SIM-PROS-004,restaurant,Dublin 7,2026-06-09,phone,quoted,,True
+SIM-PROS-005,takeaway,Rathmines,2026-06-12,walk-in,quoted,,True
+SIM-PROS-006,cafe,Clondalkin,2026-06-12,walk-in,no_interest,,True
+SIM-PROS-007,restaurant,Dublin 1,2026-06-14,email,no_interest,,True
+SIM-PROS-008,takeaway,Sandyford,2026-06-14,walk-in,quoted,,True
+SIM-PROS-009,restaurant,Howth,2026-06-15,walk-in,no_interest,,True
+SIM-PROS-010,restaurant,Dundrum,2026-06-23,walk-in,no_interest,,True
+SIM-PROS-011,takeaway,Dundrum,2026-06-23,email,no_interest,,True
+SIM-PROS-012,takeaway,Lucan,2026-06-25,email,no_interest,,True
+SIM-PROS-013,restaurant,Sandyford,2026-06-26,walk-in,no_interest,,True
+SIM-PROS-014,cafe,Sandyford,2026-06-27,walk-in,no_interest,,True
+SIM-PROS-015,restaurant,Sandyford,2026-06-28,phone,won,SIM-CUST-01,True
+SIM-PROS-016,restaurant,Sandyford,2026-06-29,walk-in,quoted,,True
+SIM-PROS-017,takeaway,Sandyford,2026-06-30,walk-in,won,SIM-CUST-02,True
+SIM-PROS-018,cafe,Dublin 1,2026-06-30,walk-in,no_interest,,True
+SIM-PROS-019,restaurant,Drumcondra,2026-07-01,email,no_interest,,True
+SIM-PROS-020,restaurant,Dublin 8,2026-07-03,walk-in,no_interest,,True
+SIM-PROS-021,cafe,Blanchardstown,2026-07-05,walk-in,quoted,,True
+SIM-PROS-022,takeaway,Clondalkin,2026-07-05,walk-in,no_interest,,True
+SIM-PROS-023,cafe,Dublin 2,2026-07-07,phone,no_interest,,True
+SIM-PROS-024,cafe,Dublin 1,2026-07-08,walk-in,no_interest,,True
+SIM-PROS-025,restaurant,Tallaght,2026-07-10,walk-in,quoted,,True
+SIM-PROS-026,takeaway,Dublin 1,2026-07-13,walk-in,quoted,,True
+SIM-PROS-027,takeaway,Dublin 7,2026-07-16,phone,quoted,,True
+SIM-PROS-028,cafe,Tallaght,2026-07-17,email,no_interest,,True
+SIM-PROS-029,cafe,Swords,2026-07-18,walk-in,no_interest,,True
+SIM-PROS-030,restaurant,Howth,2026-07-19,walk-in,no_interest,,True
+SIM-PROS-031,takeaway,Drumcondra,2026-07-22,phone,no_interest,,True
+SIM-PROS-032,cafe,Dublin 7,2026-07-22,email,no_interest,,True
+SIM-PROS-033,cafe,Drumcondra,2026-07-22,email,no_interest,,True
+SIM-PROS-034,restaurant,Rathmines,2026-07-25,walk-in,no_interest,,True
+SIM-PROS-035,takeaway,Swords,2026-07-26,walk-in,no_interest,,True
+SIM-PROS-036,cafe,Lucan,2026-07-26,phone,no_interest,,True
+SIM-PROS-037,cafe,Drumcondra,2026-07-27,email,quoted,,True
+SIM-PROS-038,takeaway,Dublin 1,2026-07-30,phone,won,SIM-CUST-03,True
+SIM-PROS-039,restaurant,Howth,2026-08-02,walk-in,won,SIM-CUST-04,True
+SIM-PROS-040,restaurant,Lucan,2026-08-02,walk-in,no_interest,,True
+SIM-PROS-041,restaurant,Dublin 1,2026-08-03,walk-in,won,SIM-CUST-05,True
+SIM-PROS-042,restaurant,Dublin 8,2026-08-05,phone,no_interest,,True
+SIM-PROS-043,takeaway,Dublin 7,2026-08-06,walk-in,quoted,,True
+SIM-PROS-044,cafe,Sandyford,2026-08-06,walk-in,quoted,,True
+SIM-PROS-045,restaurant,Dublin 7,2026-08-07,phone,no_interest,,True
+SIM-PROS-046,restaurant,Lucan,2026-08-09,walk-in,quoted,,True
+SIM-PROS-047,cafe,Dublin 7,2026-08-10,phone,no_interest,,True
+SIM-PROS-048,cafe,Dundrum,2026-08-13,phone,no_interest,,True
+SIM-PROS-049,restaurant,Sandyford,2026-08-14,walk-in,no_interest,,True
+SIM-PROS-050,takeaway,Tallaght,2026-08-14,email,won,SIM-CUST-06,True
+SIM-PROS-051,cafe,Lucan,2026-08-15,email,no_interest,,True
+SIM-PROS-052,takeaway,Howth,2026-08-17,walk-in,no_interest,,True
+SIM-PROS-053,restaurant,Dublin 7,2026-08-19,email,no_interest,,True
+SIM-PROS-054,cafe,Clondalkin,2026-08-20,walk-in,quoted,,True
+SIM-PROS-055,cafe,Clondalkin,2026-08-21,phone,quoted,,True
+SIM-PROS-056,restaurant,Lucan,2026-08-21,walk-in,won,SIM-CUST-07,True
+SIM-PROS-057,takeaway,Dublin 7,2026-08-22,phone,no_interest,,True
+SIM-PROS-058,restaurant,Sandyford,2026-08-27,walk-in,no_interest,,True
+SIM-PROS-059,restaurant,Dublin 7,2026-08-29,phone,no_interest,,True
+SIM-PROS-060,cafe,Sandyford,2026-08-30,walk-in,no_interest,,True
+SIM-PROS-061,takeaway,Sandyford,2026-09-01,walk-in,no_interest,,True
+SIM-PROS-062,restaurant,Lucan,2026-09-01,walk-in,quoted,,True
+SIM-PROS-063,cafe,Dublin 1,2026-09-02,walk-in,won,SIM-CUST-08,True
+SIM-PROS-064,takeaway,Dublin 8,2026-09-04,walk-in,no_interest,,True
+SIM-PROS-065,cafe,Dublin 1,2026-09-06,walk-in,no_interest,,True
+SIM-PROS-066,restaurant,Dublin 2,2026-09-06,walk-in,no_interest,,True
+SIM-PROS-067,cafe,Dublin 2,2026-09-06,walk-in,quoted,,True
+SIM-PROS-068,cafe,Tallaght,2026-09-09,walk-in,no_interest,,True
+SIM-PROS-069,restaurant,Dublin 1,2026-09-09,walk-in,won,SIM-CUST-09,True
+SIM-PROS-070,restaurant,Blanchardstown,2026-09-10,walk-in,won,SIM-CUST-10,True
+SIM-PROS-071,takeaway,Drumcondra,2026-09-12,walk-in,quoted,,True
+SIM-PROS-072,cafe,Swords,2026-09-17,walk-in,won,SIM-CUST-11,True
+SIM-PROS-073,takeaway,Lucan,2026-09-18,email,won,SIM-CUST-12,True
+SIM-PROS-074,cafe,Swords,2026-09-18,walk-in,quoted,,True
+SIM-PROS-075,cafe,Lucan,2026-09-18,phone,won,SIM-CUST-13,True
+SIM-PROS-076,takeaway,Swords,2026-09-19,walk-in,no_interest,,True
+SIM-PROS-077,cafe,Dundrum,2026-09-21,walk-in,no_interest,,True
+SIM-PROS-078,cafe,Dublin 1,2026-09-22,walk-in,no_interest,,True
+SIM-PROS-079,cafe,Lucan,2026-09-23,walk-in,no_interest,,True
+SIM-PROS-080,cafe,Lucan,2026-09-25,phone,no_interest,,True
+SIM-PROS-081,takeaway,Howth,2026-09-26,walk-in,no_interest,,True
+SIM-PROS-082,cafe,Drumcondra,2026-09-27,walk-in,no_interest,,True
+SIM-PROS-083,cafe,Blanchardstown,2026-10-05,phone,no_interest,,True
+SIM-PROS-084,cafe,Sandyford,2026-10-06,phone,no_interest,,True
+SIM-PROS-085,restaurant,Swords,2026-10-06,phone,no_interest,,True
+SIM-PROS-086,cafe,Clondalkin,2026-10-06,phone,quoted,,True
+SIM-PROS-087,cafe,Howth,2026-10-07,phone,quoted,,True
+SIM-PROS-088,restaurant,Blanchardstown,2026-10-08,walk-in,no_interest,,True
+SIM-PROS-089,restaurant,Howth,2026-10-09,phone,quoted,,True
+SIM-PROS-090,restaurant,Clondalkin,2026-10-10,email,quoted,,True
+SIM-PROS-091,cafe,Tallaght,2026-10-10,phone,no_interest,,True
+SIM-PROS-092,restaurant,Rathmines,2026-10-14,walk-in,quoted,,True
+SIM-PROS-093,cafe,Drumcondra,2026-10-15,walk-in,no_interest,,True

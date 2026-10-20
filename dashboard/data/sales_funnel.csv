@@ -1,0 +1,16 @@
+data_source,month_start,month,channel,prospects,quoted,won,quote_rate_pct,won_of_quoted_pct
+Simulated,2026-06-01,2026-06,email,4,1,0,25.0,0.0
+Simulated,2026-06-01,2026-06,phone,2,2,1,100.0,50.0
+Simulated,2026-06-01,2026-06,walk-in,12,4,1,33.3,25.0
+Simulated,2026-07-01,2026-07,email,5,1,0,20.0,0.0
+Simulated,2026-07-01,2026-07,phone,5,2,1,40.0,50.0
+Simulated,2026-07-01,2026-07,walk-in,10,3,0,30.0,0.0
+Simulated,2026-08-01,2026-08,email,3,1,1,33.3,100.0
+Simulated,2026-08-01,2026-08,phone,7,1,0,14.3,0.0
+Simulated,2026-08-01,2026-08,walk-in,12,7,3,58.3,42.9
+Simulated,2026-09-01,2026-09,email,1,1,1,100.0,100.0
+Simulated,2026-09-01,2026-09,phone,2,1,1,50.0,100.0
+Simulated,2026-09-01,2026-09,walk-in,19,8,4,42.1,50.0
+Simulated,2026-10-01,2026-10,email,1,1,0,100.0,0.0
+Simulated,2026-10-01,2026-10,phone,7,3,0,42.9,0.0
+Simulated,2026-10-01,2026-10,walk-in,3,1,0,33.3,0.0

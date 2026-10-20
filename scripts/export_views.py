@@ -20,6 +20,9 @@ VIEWS = [
     "v_repeat_customer_rate",
     "v_outstanding_balance",
     "v_product_sales",
+    "v_sales_funnel",
+    "v_outstanding_quotes",
+    "v_quote_conversion",
 ]
 
 

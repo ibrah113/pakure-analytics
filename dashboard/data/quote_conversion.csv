@@ -1,0 +1,10 @@
+data_source,channel,business_type,quotes,accepted,rejected,expired,still_open,acceptance_rate_pct
+Simulated,email,cafe,2,0,1,1,0,0.0
+Simulated,email,restaurant,1,0,0,0,1,
+Simulated,email,takeaway,2,2,0,0,0,100.0
+Simulated,phone,cafe,4,1,1,2,0,25.0
+Simulated,phone,restaurant,3,1,0,1,1,50.0
+Simulated,phone,takeaway,2,1,0,1,0,50.0
+Simulated,walk-in,cafe,7,2,3,2,0,28.6
+Simulated,walk-in,restaurant,10,5,2,2,1,55.6
+Simulated,walk-in,takeaway,6,1,4,1,0,16.7

@@ -1,5 +1,13 @@
-customer_code,brand,location,unpaid_orders,outstanding_eur,oldest_unpaid_order_date,days_since_oldest_unpaid,days_since_latest_unpaid
-CUST-02,BRAND-02,,4,580.00,2026-04-23,179,143
-CUST-01,BRAND-01,,1,245.20,2026-04-24,178,178
-CUST-03,BRAND-03,,1,129.20,2026-05-10,162,162
-CUST-07,BRAND-06,,1,100.00,2026-05-27,145,145
+data_source,customer_code,brand,location,unpaid_orders,outstanding_eur,oldest_unpaid_order_date,days_since_oldest_unpaid,days_since_latest_unpaid
+Real,CUST-02,BRAND-02,,4,580.00,2026-04-23,180,144
+Real,CUST-01,BRAND-01,,1,245.20,2026-04-24,179,179
+Real,CUST-03,BRAND-03,,1,129.20,2026-05-10,163,163
+Real,CUST-07,BRAND-06,,1,100.00,2026-05-27,146,146
+Simulated,SIM-CUST-04,SIM-BRAND-04,Howth,3,680.97,2026-08-11,70,7
+Simulated,SIM-CUST-07,SIM-BRAND-07,Lucan,2,566.01,2026-08-25,56,6
+Simulated,SIM-CUST-11,SIM-BRAND-11,Swords,2,513.33,2026-09-22,28,11
+Simulated,SIM-CUST-03,SIM-BRAND-03,Dublin 1,2,378.66,2026-08-04,77,54
+Simulated,SIM-CUST-12,SIM-BRAND-12,Lucan,1,261.95,2026-09-23,27,27
+Simulated,SIM-CUST-01,SIM-BRAND-01,Sandyford,1,145.28,2026-08-02,79,79
+Simulated,SIM-CUST-05,SIM-BRAND-05,Dublin 1,2,136.71,2026-08-12,69,27
+Simulated,SIM-CUST-08,SIM-BRAND-08,Dublin 1,1,112.72,2026-09-04,46,46

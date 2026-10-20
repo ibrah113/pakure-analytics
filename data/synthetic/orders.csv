@@ -1,0 +1,30 @@
+customer_code,order_date,product_name,category,print_only,qty,fulfilment_status,payment_status,invoice_no,total_eur,is_synthetic
+SIM-CUST-02,2026-07-03,Pizza Boxes,Pizza Box,False,3,Delivered,Paid,,95.96,True
+SIM-CUST-01,2026-07-04,Pizza Boxes,Pizza Box,False,2,Delivered,Paid,,71.96,True
+SIM-CUST-01,2026-07-15,Pizza Boxes,Pizza Box,False,4,Delivered,Paid,,138.60,True
+SIM-CUST-02,2026-07-29,Pizza Boxes,Pizza Box,False,4,Delivered,Paid,,122.56,True
+SIM-CUST-01,2026-08-02,Pizza Boxes,Pizza Box,False,5,Delivered,Unpaid,,145.28,True
+SIM-CUST-03,2026-08-04,Bags,Bag,False,8,Delivered,Unpaid,,255.78,True
+SIM-CUST-04,2026-08-11,Pizza Boxes (Print Only),Pizza Box,True,13,Delivered,Unpaid,,299.83,True
+SIM-CUST-05,2026-08-12,Pizza Boxes,Pizza Box,False,3,Delivered,Unpaid,,70.20,True
+SIM-CUST-02,2026-08-14,Pizza Boxes,Pizza Box,False,4,Delivered,Paid,,133.99,True
+SIM-CUST-06,2026-08-21,Pizza Boxes (Print Only),Pizza Box,True,7,Delivered,Paid,,101.94,True
+SIM-CUST-07,2026-08-25,Bags,Bag,False,8,Delivered,Unpaid,,262.39,True
+SIM-CUST-03,2026-08-27,Bags,Bag,False,4,Delivered,Unpaid,,122.88,True
+SIM-CUST-05,2026-08-30,Pizza Boxes,Pizza Box,False,3,Delivered,Paid,,72.02,True
+SIM-CUST-08,2026-09-04,Pizza Boxes,Pizza Box,False,3,Delivered,Unpaid,,112.72,True
+SIM-CUST-09,2026-09-10,Bags & Box,Bag & Box,False,3,Delivered,Paid,,120.47,True
+SIM-CUST-04,2026-09-13,Pizza Boxes (Print Only),Pizza Box,True,9,Delivered,Unpaid,,207.83,True
+SIM-CUST-03,2026-09-15,Bags,Bag,False,5,Delivered,Paid,,167.67,True
+SIM-CUST-10,2026-09-18,Pizza Boxes,Pizza Box,False,2,Delivered,Paid,,59.41,True
+SIM-CUST-07,2026-09-20,Bags,Bag,False,4,Delivered,Paid,,135.10,True
+SIM-CUST-11,2026-09-22,Bags,Bag,False,7,Delivered,Unpaid,,278.61,True
+SIM-CUST-05,2026-09-23,Pizza Boxes,Pizza Box,False,3,Delivered,Unpaid,,66.51,True
+SIM-CUST-12,2026-09-23,Bags,Bag,False,6,Delivered,Unpaid,,261.95,True
+SIM-CUST-13,2026-09-28,Pizza Boxes,Pizza Box,False,5,Delivered,Paid,,209.61,True
+SIM-CUST-06,2026-10-04,Pizza Boxes (Print Only),Pizza Box,True,12,Delivered,Paid,,180.71,True
+SIM-CUST-03,2026-10-06,Bags,Bag,False,9,Delivered,Paid,,280.71,True
+SIM-CUST-09,2026-10-08,Bags & Box,Bag & Box,False,1,Delivered,Paid,,40.22,True
+SIM-CUST-11,2026-10-09,Bags,Bag,False,6,Delivered,Unpaid,,234.72,True
+SIM-CUST-04,2026-10-13,Pizza Boxes,Pizza Box,False,4,Delivered,Unpaid,,173.31,True
+SIM-CUST-07,2026-10-14,Bags,Bag,False,6,Delivered,Unpaid,,303.62,True

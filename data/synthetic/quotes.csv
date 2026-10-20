@@ -1,0 +1,38 @@
+prospect_code,quote_date,product_name,qty,amount_eur,status,is_synthetic
+SIM-PROS-003,2026-06-07,Bags,4,130.7,rejected,True
+SIM-PROS-004,2026-06-11,Pizza Boxes,5,206.43,expired,True
+SIM-PROS-005,2026-06-19,Bags,2,69.77,rejected,True
+SIM-PROS-008,2026-06-15,Bags,7,221.3,expired,True
+SIM-PROS-015,2026-07-02,Pizza Boxes,2,71.96,accepted,True
+SIM-PROS-016,2026-06-29,Bags,7,207.65,rejected,True
+SIM-PROS-017,2026-07-03,Pizza Boxes,3,95.96,accepted,True
+SIM-PROS-021,2026-07-11,Pizza Boxes,3,126.4,rejected,True
+SIM-PROS-025,2026-07-13,Pizza Boxes,4,170.64,expired,True
+SIM-PROS-026,2026-07-16,Pizza Boxes,4,116.67,rejected,True
+SIM-PROS-027,2026-07-23,Bags,9,390.68,expired,True
+SIM-PROS-037,2026-07-30,Pizza Boxes (Print Only),12,232.8,expired,True
+SIM-PROS-038,2026-07-30,Bags,8,255.78,accepted,True
+SIM-PROS-039,2026-08-08,Pizza Boxes (Print Only),13,299.83,accepted,True
+SIM-PROS-041,2026-08-08,Pizza Boxes,3,70.2,accepted,True
+SIM-PROS-043,2026-08-07,Pizza Boxes,4,98.38,rejected,True
+SIM-PROS-044,2026-08-10,Pizza Boxes (Print Only),7,132.58,rejected,True
+SIM-PROS-046,2026-08-11,Pizza Boxes,5,149.93,rejected,True
+SIM-PROS-050,2026-08-20,Pizza Boxes (Print Only),7,101.94,accepted,True
+SIM-PROS-054,2026-08-23,Bags,6,214.08,rejected,True
+SIM-PROS-055,2026-08-25,Bags,6,211.93,rejected,True
+SIM-PROS-056,2026-08-21,Bags,8,262.39,accepted,True
+SIM-PROS-062,2026-09-06,Pizza Boxes,5,212.0,expired,True
+SIM-PROS-063,2026-09-02,Pizza Boxes,3,112.72,accepted,True
+SIM-PROS-067,2026-09-07,Bags,4,128.85,expired,True
+SIM-PROS-069,2026-09-09,Bags & Box,3,120.47,accepted,True
+SIM-PROS-070,2026-09-13,Pizza Boxes,2,59.41,accepted,True
+SIM-PROS-071,2026-09-14,Bags & Box,3,119.31,rejected,True
+SIM-PROS-072,2026-09-18,Bags,7,278.61,accepted,True
+SIM-PROS-073,2026-09-23,Bags,6,261.95,accepted,True
+SIM-PROS-074,2026-09-21,Bags & Box,2,68.24,expired,True
+SIM-PROS-075,2026-09-23,Pizza Boxes,5,209.61,accepted,True
+SIM-PROS-086,2026-10-10,Bags,3,142.4,expired,True
+SIM-PROS-087,2026-10-13,Bags,5,161.59,expired,True
+SIM-PROS-089,2026-10-15,Bags & Box,2,72.9,sent,True
+SIM-PROS-090,2026-10-15,Bags,4,131.93,sent,True
+SIM-PROS-092,2026-10-15,Bags,7,324.05,sent,True

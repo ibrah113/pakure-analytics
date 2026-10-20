@@ -1,5 +1,9 @@
-product_name,category,print_only,order_count,total_qty,revenue_eur,revenue_per_unit_eur
-Bags,Bag,False,7,37,1550.00,41.89
-Pizza Boxes,Pizza Box,False,5,18,564.59,31.37
-Pizza Boxes (Print Only),Pizza Box,True,2,20,374.40,18.72
-Bags & Box,Bag & Box,False,1,2,77.00,38.50
+data_source,product_name,category,print_only,order_count,total_qty,revenue_eur,revenue_per_unit_eur
+Real,Bags,Bag,False,7,37,1550.00,41.89
+Real,Pizza Boxes,Pizza Box,False,5,18,564.59,31.37
+Real,Pizza Boxes (Print Only),Pizza Box,True,2,20,374.40,18.72
+Real,Bags & Box,Bag & Box,False,1,2,77.00,38.50
+Simulated,Bags,Bag,False,10,63,2303.43,36.56
+Simulated,Pizza Boxes,Pizza Box,False,13,45,1472.13,32.71
+Simulated,Pizza Boxes (Print Only),Pizza Box,True,4,41,790.31,19.28
+Simulated,Bags & Box,Bag & Box,False,2,4,160.69,40.17

@@ -1,0 +1,4 @@
+data_source,quote_id,prospect_code,business_type,area,channel,quote_date,product_name,qty,amount_eur,days_open
+Simulated,37,SIM-PROS-092,restaurant,Rathmines,walk-in,2026-10-15,Bags,7,324.05,5
+Simulated,36,SIM-PROS-090,restaurant,Clondalkin,email,2026-10-15,Bags,4,131.93,5
+Simulated,35,SIM-PROS-089,restaurant,Howth,phone,2026-10-15,Bags & Box,2,72.90,5
